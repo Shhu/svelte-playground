@@ -8,7 +8,7 @@
   "numFailedTests": 0,
   "numPendingTests": 0,
   "numTodoTests": 0,
-  "startTime": 1674130067918,
+  "startTime": 1674133215867,
   "success": true,
   "testResults": [
     {
@@ -25,8 +25,8 @@
           "failureMessages": []
         }
       ],
-      "startTime": 1674130069762,
-      "endTime": 1674130069764,
+      "startTime": 1674133217757,
+      "endTime": 1674133217759,
       "status": "passed",
       "message": "",
       "name": "/home/yann/dev/svelte-playground/src/routes/sverdle/game.test.ts"
