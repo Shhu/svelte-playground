@@ -1,0 +1,35 @@
+{
+  "numTotalTestSuites": 2,
+  "numPassedTestSuites": 2,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 1,
+  "numPassedTests": 1,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1674130067918,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "game test"
+          ],
+          "fullName": " game test returns true when a valid word is entered",
+          "status": "passed",
+          "title": "returns true when a valid word is entered",
+          "duration": 2,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1674130069762,
+      "endTime": 1674130069764,
+      "status": "passed",
+      "message": "",
+      "name": "/home/yann/dev/svelte-playground/src/routes/sverdle/game.test.ts"
+    }
+  ]
+}
